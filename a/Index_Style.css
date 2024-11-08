@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+    display: flex;
+    flex-direction:row;
+}
+
+#firstArea{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#secondArea{
+    width: 40%;
+    height: 100%;
+}
+
+#thirdArea{
+    width: 40%;
+    height: 100%;
+    flex-direction: column;
+}
+
+#cookie{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: aliceblue;
+
+}
+
+.produtos{
+    width: 100%;
+    height: 60px;
+    background-color: aliceblue;
+}

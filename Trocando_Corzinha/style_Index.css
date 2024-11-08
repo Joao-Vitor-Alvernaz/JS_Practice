@@ -1,0 +1,43 @@
+#tela{
+    width: 100vw;
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu{
+    background-color: aliceblue;
+    width: 20vw;
+    height: 20vh;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buttons{
+    width: 20px;
+    height: 20px;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+#black{
+    background-color: black;
+}
+
+#darkred{
+    background-color: darkred;
+}
+
+#aquamarine{
+    background-color: aquamarine;
+}
+
+#antiquewhite{
+    background-color: antiquewhite;
+}
