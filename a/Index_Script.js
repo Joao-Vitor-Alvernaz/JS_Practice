@@ -49,7 +49,6 @@ async function produto2(){
         prod2 = prod2 +1;
         click_Calculator();
     }
-    alert((100,qtd_Number));
 }
 
 function click_Calculator(){
